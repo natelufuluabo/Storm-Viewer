@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UITableViewController {
     var pictures = [String]()
+//    let names = ["Celestin", "Julie", "Freddy", "Serge", "Nathan", "Naomi", "Sarah", "Beni"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
